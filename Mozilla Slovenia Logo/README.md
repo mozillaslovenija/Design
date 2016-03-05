@@ -5,4 +5,8 @@ Here you can find Mozilla Slovenia community logos and branding.
 * Folder **PNG files** contains logos in PNG format, ready for usage.
 
 ![Color and font info](https://cloud.githubusercontent.com/assets/11082452/13547378/b6f150ee-e2d0-11e5-908f-cd2f124bd11a.png)
+---
 
+Made by **Rok Samsa**:
+-  ![Website] (http://roksamsa.com)
+-  ![Mozillians profile] (https://mozillians.org/en-US/u/rok.samsa/)
