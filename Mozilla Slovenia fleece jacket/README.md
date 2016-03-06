@@ -5,7 +5,7 @@ Here you can find Mozilla Slovenia source files for our custom design fleece jac
 * File **mozilla-fleece-jacket.tif** represents example of our fleece jacket in PNG format.
 * File **mozilla-fleece-jacket.psd** is Adobe Photoshop file.
 
-
+![Fleece jacket](https://raw.githubusercontent.com/mozillaslovenija/Design/master/Mozilla%20Slovenia%20fleece%20jacket/mozilla-fleece-jacket.png)
 ---
 
 Made by **Rok Samsa**:
