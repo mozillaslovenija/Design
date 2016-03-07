@@ -9,5 +9,5 @@ Here you can find Mozilla Slovenia source files for our custom design fleece jac
 ---
 
 Made by **Rok Samsa**:
--  ![Website] (http://roksamsa.com)
--  ![Mozillians profile] (https://mozillians.org/en-US/u/rok.samsa/)
+-  [Website] (http://roksamsa.com)
+-  [Mozillians profile] (https://mozillians.org/en-US/u/rok.samsa/)
