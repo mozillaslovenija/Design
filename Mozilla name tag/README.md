@@ -8,5 +8,5 @@ Here you can find Mozilla Slovenia, name tags for events.
 ---
 
 Made by **Rok Samsa**:
--  ![Website] (http://roksamsa.com)
--  ![Mozillians profile] (https://mozillians.org/en-US/u/rok.samsa/)
+-  [Website] (http://roksamsa.com)
+-  [Mozillians profile] (https://mozillians.org/en-US/u/rok.samsa/)
